@@ -1,0 +1,10 @@
+"AddonInfo"
+{
+	"name"			"Ranked Triple T"
+	"version"		""
+	"up_date"		""
+	"author_name"		"Boopington"
+	"author_email"		""
+	"author_url"		""
+	"info"			"Ranking system for TTT."
+}
